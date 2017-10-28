@@ -1,0 +1,1 @@
+This is a program made using python (2.7) and pygame similar to android version. 
